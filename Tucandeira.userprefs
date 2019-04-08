@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Scripts/MoveBehavior.cs" Line="1" Column="1" />
+      <File FileName="../Ballgorithm 2dEdition/Assets/Scripts/pieceBehavior.cs" Line="1" Column="1" />
+      <File FileName="../Ballgorithm 2dEdition/Assets/Scripts/dragObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/tilingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AntBehavior.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
